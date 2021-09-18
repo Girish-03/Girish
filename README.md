@@ -7,7 +7,8 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Followed EA regime of Selection, Crossover, Mutation and replacement of weekest in population.
   * Performed a series of experiments and evaluations using different components of EAs like mutation, crossover, population size and tournament selection.
   * Checkout the project code and detailed description on Github
-  <img src="./images/algo_knapsack_behav.png" width="800" height="400" /><br></br>
+  <img src="./images/algo_knapsack_behav.png" width="800" height="400" />
+  
   
  # Project 2: Tweets-Analysis, March 2020 - Europe
 <a href="https://github.com/Girish-03/Tweets-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
