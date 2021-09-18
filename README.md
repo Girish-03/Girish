@@ -2,7 +2,7 @@
 I am Girish and currently pursuing MSc Data Science with AI at University of Exeter,UK. I am a data enthusiast and below is a list of some of the projects I undertook.
 
 # Project 1: Knapsack Problem using Evolutionary Algorithm 
-<a href="https://github.com/Girish-03/Knapsack-Probelm"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a><br></br>
+<a href="https://github.com/Girish-03/Knapsack-Probelm"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
   * Developed and used Evolutionary Algorithm to optimize and study The Knapsack Problem.
   * Followed EA regime of Selection, Crossover, Mutation and replacement of weekest in population.
   * Performed a series of experiments and evaluations using different components of EAs like mutation, crossover, population size and tournament selection.
