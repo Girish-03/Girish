@@ -37,6 +37,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Trained and tuned hyperparameters of a Convolutional Neural Network and experimented with different components.
   * Performed evaluations on both algorithms.
   * Checkout the project code and detailed description on Github
+  <br></br>
   <img src="./images/cell predictions.png" width="700" height="600" />
   
 # Project 4: ECMM447: Networks-Analysis 
@@ -47,4 +48,5 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Performed Community Detection and checked network centrality.
   * Performed Compartmental Modelling and simulation of Disease Spread using SI and SIR models
   * Checkout the project code and detailed description on Github
+  <br></br>
   <img src="./images/compartmental models.png" width="800" height="400" />
