@@ -13,7 +13,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Followed EA regime of Selection, Crossover, Mutation and replacement of weekest in population.
   * Performed a series of experiments and evaluations using different components of EAs like mutation, crossover, population size and tournament selection.
   * Checkout the project code and detailed description on Github
-  <img src="./images/algo_knapsack_behav.png" width="800" height="400" />
+<img src="./images/algo_knapsack_behav.png" width="800" height="400" />
   
 # Project 2: Tweets-Analysis, March 2020 - Europe
 <a href="https://github.com/Girish-03/Tweets-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
@@ -24,9 +24,9 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Analysed users and automated accounts
   * Identified unusual days and events in UK and Ireland
   * Checkout the project code and detailed description on Github
-  <img src="./images/March tweets.png" width="800" height="250" />
-  <img src="./Gifs/all_720gif.gif" width="500" height="250" />
-  <img src="./Gifs/ireland_720gif.gif" width="500" height="250" />
+<img src="./images/March tweets.png" width="800" height="250" />
+<img src="./Gifs/all_720gif.gif" width="500" height="250" />
+<img src="./Gifs/ireland_720gif.gif" width="500" height="250" />
 
 # Project 3: Malaria Cells Classification
 <a href="https://github.com/Girish-03/Malaria-Cells-Classification"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
@@ -38,7 +38,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Performed evaluations on both algorithms.
   * Checkout the project code and detailed description on Github
   
-  <img src="./images/cell predictions.png" width="700" height="600" />
+<img src="./images/cell predictions.png" width="700" height="600" />
   
 # Project 4: ECMM447: Networks-Analysis 
 <a href="https://github.com/Girish-03/ECMM447-Networks-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
@@ -49,4 +49,4 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Performed Compartmental Modelling and simulation of Disease Spread using SI and SIR models
   * Checkout the project code and detailed description on Github
   
-  <img src="./images/compartmental models.png" width="800" height="400" />
+<img src="./images/compartmental models.png" width="800" height="400" />
