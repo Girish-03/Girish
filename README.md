@@ -4,7 +4,7 @@
 # Girish Kumar Solanki
 
 <img src="images/linkedin_girish.jpg" width="200" height="200" />
-<a href="https://www.linkedin.com/in/girish-solanki-4337a155/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="25" /></a><br></br>
+<a href="https://www.linkedin.com/in/girish-solanki-4337a155/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="25" /></a>
 </p>
 
 I am Girish and currently pursuing MSc Data Science with AI at University of Exeter, UK. I am a data enthusiast and below is a list of some projects I undertook.
