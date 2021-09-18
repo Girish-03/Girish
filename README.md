@@ -1,9 +1,8 @@
 
 <h1 align="center">Girish Kumar Solanki</h1>
 <p align="center">
-<img src="images/linkedin_girish.jpg" width="200" height="200" />
-<br></br>
-<a href="https://www.linkedin.com/in/girish-solanki-4337a155/">LinkedIn</a>
+<img src="images/linkedin_girish.jpg" width="200" height="200" /><br>
+<a href="https://www.linkedin.com/in/girish-solanki-4337a155/">LinkedIn</a></br>
 </p>
 
 I am Girish and currently pursuing MSc Data Science with AI at University of Exeter, UK. I am a data enthusiast and below is a list of some projects I undertook.
@@ -38,7 +37,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Trained and tuned hyperparameters of a Convolutional Neural Network and experimented with different components.
   * Performed evaluations on both algorithms.
   * Checkout the project code and detailed description on Github
-  <br></br>
+  
   <img src="./images/cell predictions.png" width="700" height="600" />
   
 # Project 4: ECMM447: Networks-Analysis 
@@ -49,5 +48,5 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Performed Community Detection and checked network centrality.
   * Performed Compartmental Modelling and simulation of Disease Spread using SI and SIR models
   * Checkout the project code and detailed description on Github
-  <br></br>
+  
   <img src="./images/compartmental models.png" width="800" height="400" />
