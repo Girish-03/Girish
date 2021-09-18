@@ -1,5 +1,5 @@
 # Girish's Portfolio
-I am Girish and currently pursuing MSc Data Science with AI at University of Exeter,UK. I am a data enthusiast and below is a list of some of the projects I undertook.
+I am Girish and currently pursuing MSc Data Science with AI at University of Exeter, UK. I am a data enthusiast and below is a list of some projects I undertook.
 
 # Project 1: Knapsack Problem using Evolutionary Algorithm 
 <a href="https://github.com/Girish-03/Knapsack-Probelm"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
@@ -7,7 +7,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Followed EA regime of Selection, Crossover, Mutation and replacement of weekest in population.
   * Performed a series of experiments and evaluations using different components of EAs like mutation, crossover, population size and tournament selection.
   * Checkout the project code and detailed description on Github
-  <img src="./images/algo_knapsack_behav.png" width="800" height="400" />
+  <img src="./images/algo_knapsack_behav.png" width="800" height="400" /><br></br>
   
  # Project 2: Tweets-Analysis, March 2020 - Europe
 <a href="https://github.com/Girish-03/Tweets-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
