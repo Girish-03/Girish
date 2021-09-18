@@ -1,7 +1,8 @@
 
 <h1 align="center">Girish Kumar Solanki</h1>
 <p align="center">
-<img src="images/linkedin_girish.jpg" width="200" height="200" /><br></br>
+<img src="images/linkedin_girish.jpg" width="200" height="200" />
+<br></br>
 <a href="https://www.linkedin.com/in/girish-solanki-4337a155/">LinkedIn</a>
 </p>
 
