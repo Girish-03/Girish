@@ -10,7 +10,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   <img src="./images/algo_knapsack_behav.png" width="800" height="400" />
   
  # Project 2: Tweets-Analysis, March 2020 - Europe
-<a href="https://github.com/Girish-03/Tweets-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a><br></br>
+<a href="https://github.com/Girish-03/Tweets-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
   * Explored a large dataset of tweets collected from the twitter API during the period March 1st to March 31st 2020
   * Sampled and worked with around 100 GB data
   * Performed some Basic Stats, analyses and Data lookup
@@ -24,7 +24,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
 
   
  # Project 3: Malaria Cells Classification
-<a href="https://github.com/Girish-03/Malaria-Cells-Classification"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a><br></br>
+<a href="https://github.com/Girish-03/Malaria-Cells-Classification"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
   * This project uses the Machine Learning algorithms like K-Nearest Neighbors and implements a deep learning- Convolutional Neural Network with tensorflow using keras API.
   * Classifies cell images as infected or not infected.
   * The images were labelled as class 0 and 1 signifying uninfected and infected, followed by resizing, shuffling and visualisation.
@@ -35,7 +35,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   <img src="./images/cell predictions.png" width="700" height="600" />
   
  # Project 4: ECMM447: Networks-Analysis 
-<a href="https://github.com/Girish-03/ECMM447-Networks-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a><br></br>
+<a href="https://github.com/Girish-03/ECMM447-Networks-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
   * Coursework under ECMM447 - Social Networks and Text Analysis at University
   * This coursework utilises the dataset from Enron communication network
   * Performed Network Analysis - Adjacency Matrix, Degree Distribution, Hypothesis Testing - Lognormal Distribution, Assortativity and Disassortativity.
