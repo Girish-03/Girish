@@ -1,4 +1,5 @@
 # Girish's Portfolio
+<img src="linkedin_girish.jpg" width="200" height="25" align="centre"/>
 I am Girish and currently pursuing MSc Data Science with AI at University of Exeter, UK. I am a data enthusiast and below is a list of some projects I undertook.
 
 # Project 1: Knapsack Problem using Evolutionary Algorithm 
