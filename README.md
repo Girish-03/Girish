@@ -1,8 +1,6 @@
 
+<h1 align="center">Girish Kumar Solanki</h1>
 <p align="center">
- 
-# Girish Kumar Solanki
-
 <img src="images/linkedin_girish.jpg" width="200" height="200" />
 <a href="https://www.linkedin.com/in/girish-solanki-4337a155/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="25" /></a>
 </p>
