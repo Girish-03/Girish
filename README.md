@@ -20,19 +20,19 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Checkout the project code and detailed description on Github
   <img src="./images/March tweets.png" width="800" height="250" />
   <img src="./Gifs/all_720gif.gif" width="500" height="250" />
-  <img src="./Gifs/ireland_720gif.gif" width="500" height="250" />
+  <img src="./Gifs/ireland_720gif.gif" width="500" height="250" /><br></br>
 
   
  # Project 3: Malaria Cells Classification
 <a href="https://github.com/Girish-03/Malaria-Cells-Classification"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
-  * This project uses the Machine Learning algorithms like K-Nearest Neighbors and implements a deep learning- Convolutional Neural Network with tensorflow using keras API.
+  * This project uses the Machine Learning algorithms like K-Nearest Neighbors and implements a deep learning- Convolutional Neural Network with tensorflow using       keras API.
   * Classifies cell images as infected or not infected.
   * The images were labelled as class 0 and 1 signifying uninfected and infected, followed by resizing, shuffling and visualisation.
   * Trained and tuned hyperparameters of a KNN classifier using n-fold cross validation.
   * Trained and tuned hyperparameters of a Convolutional Neural Network and experimented with different components.
   * Performed evaluations on both algorithms.
   * Checkout the project code and detailed description on Github
-  <img src="./images/cell predictions.png" width="700" height="600" />
+  <img src="./images/cell predictions.png" width="700" height="600" /><br></br>
   
  # Project 4: ECMM447: Networks-Analysis 
 <a href="https://github.com/Girish-03/ECMM447-Networks-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
@@ -42,4 +42,4 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Performed Community Detection and checked network centrality.
   * Performed Compartmental Modelling and simulation of Disease Spread using SI and SIR models
   * Checkout the project code and detailed description on Github
-  <img src="./images/compartmental models.png" width="800" height="400" />
+  <img src="./images/compartmental models.png" width="800" height="400" /><br></br>
