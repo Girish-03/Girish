@@ -35,7 +35,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * The images were labelled as class 0 and 1 signifying uninfected and infected, followed by resizing, shuffling and visualisation.
   * Trained and tuned hyperparameters of a KNN classifier using n-fold cross validation.
   * Trained and tuned hyperparameters of a Convolutional Neural Network and experimented with different components.
-  * Performed evaluations on both algorithms.
+  * Performed evaluations on both algorithms, achieving 60% accuracy with KNN and 96% accuracy with CNN on test dataset.
   * Checkout the project code and detailed description on Github
   
 <img src="./images/cell predictions.png" width="700" height="600" />
