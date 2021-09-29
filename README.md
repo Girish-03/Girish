@@ -15,7 +15,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Used this novel functionality of generating expressions to modify real facial expressions in a video.
   * Developed a user friendly and intuitive GUI to enable this facial video editing.
   * Undertook a wide set of experiments and user studies to validate the results.
-  * Currently the work is under progress for publication into a Research Journal or Conference. 
+  * **Currently the work is under progress for publication into a Research Journal or Conference.** 
 <p float="left">
   <img src="./Gifs/orbit1_combinedGIF.gif" width="400" height="300" />
   <img src="./Gifs/orbit3_combinedGIF.gif" width="400" height="300" />
