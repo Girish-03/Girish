@@ -42,8 +42,10 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Identified unusual days and events in UK and Ireland
   * Checkout the project code and detailed description on Github
 <img src="./images/March tweets.png" width="800" height="250" />
-<img src="./Gifs/all_720gif.gif" width="500" height="250" />
-<img src="./Gifs/ireland_720gif.gif" width="500" height="250" />
+<p float="left">
+  <img src="./Gifs/all_720gif.gif" width="400" height="300" />
+  <img src="./Gifs/ireland_720gif.gif" width="400" height="300" />
+</p>
 
 # Project 4: Malaria Cells Classification
 <a href="https://github.com/Girish-03/Malaria-Cells-Classification"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
@@ -67,3 +69,15 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Checkout the project code and detailed description on Github
   
 <img src="./images/compartmental models.png" width="800" height="400" />
+
+<h1 align="center">Professional Certifications</h1>
+
+## 1. Microsoft Certified: Azure Data Fundamentals
+
+<a href="https://bit.ly/3yZBljF "><img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="300" height="200" /></a>
+
+## 2. Dell EMC: Associate - Information Storage and Management Version 3.0
+<a href="https://bit.ly/3tCrIGv "><img src="https://images.credly.com/size/680x680/images/7eca7585-cdde-45be-9c31-bdaaa2fc8a46/Associate-Information_Storage_and_Management_Version_3.0.png" width="300" height="200" /></a>
+
+## 3. Scrum Master Accredited Certification
+<a href="https://bit.ly/3hlCCvh"><img src="https://www.scrum-institute.org/badges/SMAC.png" width="300" height="200" /></a>
