@@ -17,8 +17,8 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Undertook a wide set of experiments and user studies to validate the results.
   * Currently the work is under progress for publication into a Research Journal or Conference. 
 <p float="left">
-  <img src="./Gifs/orbit1_combinedGIF.gif" width="400" height="300" />
-  <img src="./Gifs/orbit3_combinedGIF.gif" width="400" height="300" />
+  <img src="./Gifs/orbit1_combinedGIF.gif" width="250" height="200" />
+  <img src="./Gifs/orbit3_combinedGIF.gif" width="250" height="200" />
 </p>
 <p align="center">
 <img src="./Gifs/pipeline_outputGif.gif" width="500" height="300" />
