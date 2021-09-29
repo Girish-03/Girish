@@ -16,9 +16,13 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Developed a user friendly and intuitive GUI to enable this facial video editing.
   * Undertook a wide set of experiments and user studies to validate the results.
   * Currently the work is under progress for publication into a Research Journal or Conference. 
-<img src="./Gifs/orbit1_combinedGIF.gif" width="500" height="300" />
-<img src="./Gifs/orbit3_combinedGIF.gif" width="500" height="300" />
+<p float="left">
+  <img src="./Gifs/orbit1_combinedGIF.gif" width="400" height="300" />
+  <img src="./Gifs/orbit3_combinedGIF.gif" width="400" height="300" />
+</p>
+<p align="center">
 <img src="./Gifs/pipeline_outputGif.gif" width="500" height="300" />
+</p>
 
 # Project 2: Knapsack Problem using Evolutionary Algorithm 
 <a href="https://github.com/Girish-03/Knapsack-Probelm"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
