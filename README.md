@@ -7,7 +7,7 @@
 
 I am Girish and currently pursuing MSc Data Science with AI at University of Exeter, UK. I am a data enthusiast and below is a list of some projects I undertook.
 
-# Project 1: Deep Semantic Manipulation of Facial Videos
+## Project 1: Deep Semantic Manipulation of Facial Videos
   * Created and processed data for 3 different subjects using videos from YouTube and self-shot videos.
   * Used deep learning to map the valence-arousal space of human emotions to the parameters of 3D model of face.
   * Developed capability of generating and visualising expressions on 3D faces using this mapping.
@@ -24,7 +24,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
 <img src="./Gifs/pipeline_outputGif.gif" width="500" height="300" />
 </p>
 
-# Project 2: Knapsack Problem using Evolutionary Algorithm 
+## Project 2: Knapsack Problem using Evolutionary Algorithm 
 <a href="https://github.com/Girish-03/Knapsack-Probelm"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
   * Developed and used Evolutionary Algorithm to optimize and study The Knapsack Problem.
   * Followed EA regime of Selection, Crossover, Mutation and replacement of weekest in population.
@@ -32,7 +32,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Checkout the project code and detailed description on Github
 <img src="./images/algo_knapsack_behav.png" width="800" height="400" />
   
-# Project 3: Tweets-Analysis, March 2020 - Europe
+## Project 3: Tweets-Analysis, March 2020 - Europe
 <a href="https://github.com/Girish-03/Tweets-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
   * Explored a large dataset of tweets collected from the twitter API during the period March 1st to March 31st 2020
   * Sampled and worked with around 100 GB data
@@ -47,7 +47,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   <img src="./Gifs/ireland_720gif.gif" width="400" height="300" />
 </p>
 
-# Project 4: Malaria Cells Classification
+## Project 4: Malaria Cells Classification
 <a href="https://github.com/Girish-03/Malaria-Cells-Classification"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
   * This project uses the Machine Learning algorithms like K-Nearest Neighbors and implements a deep learning- Convolutional Neural Network with tensorflow using       keras API.
   * Classifies cell images as infected or not infected.
@@ -59,7 +59,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   
 <img src="./images/cell predictions.png" width="700" height="600" />
   
-# Project 5: ECMM447: Networks-Analysis 
+## Project 5: ECMM447: Networks-Analysis 
 <a href="https://github.com/Girish-03/ECMM447-Networks-Analysis"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
   * Coursework under ECMM447 - Social Networks and Text Analysis at University
   * This coursework utilises the dataset from Enron communication network
@@ -72,12 +72,12 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
 
 <h1 align="center">Professional Certifications</h1>
 
-## 1. Microsoft Certified: Azure Data Fundamentals
+## 1. <a href="https://bit.ly/3yZBljF ">Microsoft Certified: Azure Data Fundamentals</a>
 
 <a href="https://bit.ly/3yZBljF "><img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="300" height="200" /></a>
 
-## 2. Dell EMC: Associate - Information Storage and Management Version 3.0
+## 2. <a href="https://bit.ly/3tCrIGv ">Dell EMC: Associate - Information Storage and Management Version 3.0</a>
 <a href="https://bit.ly/3tCrIGv "><img src="https://images.credly.com/size/680x680/images/7eca7585-cdde-45be-9c31-bdaaa2fc8a46/Associate-Information_Storage_and_Management_Version_3.0.png" width="300" height="200" /></a>
 
-## 3. Scrum Master Accredited Certification
+## 3. <a href="https://bit.ly/3hlCCvh">Scrum Master Accredited Certification</a>
 <a href="https://bit.ly/3hlCCvh"><img src="https://www.scrum-institute.org/badges/SMAC.png" width="300" height="200" /></a>
