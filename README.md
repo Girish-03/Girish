@@ -9,7 +9,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
 
 ## Project 1: Deep Semantic Manipulation of Facial Videos
   * Created and processed data for 3 different subjects using videos from YouTube and self-shot videos.
-  * Developed capability of generating and visualising expressions on 3D faces.
+  * Developed capability of generating and visualising expressions on 3D faces, using deep learning.
   * Rendered components of a 3D face to generate facial videos with highest level of realism.
   * Used this novel functionality of generating expressions to modify real facial expressions in a video.
   * Developed a user friendly and intuitive GUI to enable this facial video editing.
