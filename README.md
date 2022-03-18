@@ -6,7 +6,7 @@
 </p>
 
 I am Girish and currently pursuing MSc Data Science with AI at University of Exeter, UK. I am a data enthusiast and below is a list of some projects I undertook.
-
+<!--- 
 ## Project 1: Deep Semantic Manipulation of Facial Videos
 <a href="https://github.com/Girish-03/DeepSemManipulation"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
   * Created and processed data for 3 different subjects using videos from YouTube and self-shot videos.
@@ -23,7 +23,7 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
 <p align="center">
 <img src="./Gifs/pipeline_outputGif.gif" width="500" height="300" />
 </p>
-
+-->
 ## Project 2: Expression Detection and visualization
 <a href="https://github.com/Girish-03/expression_emonet"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
 
