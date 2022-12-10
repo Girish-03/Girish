@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/girish-solanki-4337a155/">LinkedIn</a>
 </p>
 
-I am Girish and currently pursuing MSc Data Science with AI at University of Exeter, UK. I am a data enthusiast and below is a list of some projects I undertook.
+I am Girish and graduated MSc Data Science with AI at University of Exeter, UK. I am a data enthusiast and currently working as an AI Engineer with a Legal Tech Startup. Below is a list of some projects I undertook.
 
 ## Project 1: Deep Semantic Manipulation of Facial Videos
 <a href="https://github.com/Girish-03/DeepSemManipulation"><img src="GitHub-View_on_GitHub-blue.svg" width="200" height="25" /></a>
@@ -15,6 +15,8 @@ I am Girish and currently pursuing MSc Data Science with AI at University of Exe
   * Used this novel functionality of generating expressions to modify real facial expressions in a video.
   * Developed a user friendly and intuitive GUI to enable this facial video editing.
   * Undertook a wide set of experiments and user studies to validate the results.
+  * Accepted for publication at European Conference on Computer Vision (ECCV) 2022, 4th Affective Behavior Analysis In-the-Wild (ABAW) workshop, ECCV 2022, Tel Aviv, Israel.
+  
  <!---  * **This work is to be submitted for the 29th IEEE International Conference on Image Processing (IEEE ICIP- 2022).** -->
 <p float="left">
   <img src="./Gifs/orbit1_combinedGIF.gif" width="400" height="300" />
