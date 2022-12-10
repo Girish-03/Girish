@@ -15,7 +15,7 @@ I am Girish and graduated MSc Data Science with AI at University of Exeter, UK. 
   * Used this novel functionality of generating expressions to modify real facial expressions in a video.
   * Developed a user friendly and intuitive GUI to enable this facial video editing.
   * Undertook a wide set of experiments and user studies to validate the results.
-  * Accepted for publication at European Conference on Computer Vision (ECCV) 2022, 4th Affective Behavior Analysis In-the-Wild (ABAW) workshop, ECCV 2022, Tel Aviv, Israel.
+  * Accepted for publication at **European Conference on Computer Vision (ECCV) 2022, 4th Affective Behavior Analysis In-the-Wild (ABAW) workshop, ECCV 2022, Tel Aviv, Israel.**
   
  <!---  * **This work is to be submitted for the 29th IEEE International Conference on Image Processing (IEEE ICIP- 2022).** -->
 <p float="left">
